@@ -26,12 +26,14 @@ Snowflake is not an extract, transform, and load (ETL) tool in and of itself. A 
 
 <p>Firstly Change the Snowflake Credentials in the connect.py file inside the connection folder.</p>
 <p>The install all the necessary libraries.</p>
+
 ```
 pip install requirement.txt
 ```
 
 <p>To run the code</p>
 #Remember: The file_path should be correct in the command prompt. USE:</p>
+
 ```
 python main.py
 ```
